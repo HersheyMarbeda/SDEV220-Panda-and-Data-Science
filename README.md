@@ -8,5 +8,5 @@ Navigate to the following URL, and watch the video on Panda and how it utilizes 
 
 
 ## Other Necessary things
-1. Make sure that you have installed `pandas` or not use `pip install pandas`
-   - or use the Jupyter Notebook cell to install pandas use `%pip install pandas`
+1. Make sure that you have installed `pandas` or use `pip install pandas` on the terminal
+   - or use the Jupyter Notebook cell to install pandas use `%pip install pandas` or `!pip install pandas`

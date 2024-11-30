@@ -5,3 +5,8 @@ Navigate to the following URL, and watch the video on Panda and how it utilizes 
 
 1. Download: csv dataset (you can find this on my files)
 2. Follow the YouTube tutorial: https://www.youtube.com/watch?v=tRKeLrwfUgU
+
+
+## Other Necessary things
+1. Make sure that you have installed `pandas` or not use `pip install pandas`
+   - or use the Jupyter Notebook cell to install pandas use `%pip install pandas`
